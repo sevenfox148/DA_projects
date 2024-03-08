@@ -1,0 +1,15 @@
+#Byte-compile
+__pycache__/
+pypackages/
+venv/
+*.bin
+
+#PyCharm settings
+.idea/
+/.vs
+
+#Notebook checkpoints
+.ipynb_checkpoints
+
+#cache
+.cache
